@@ -30,12 +30,12 @@ Here are some ideas to get you started:
  <tr>
  <td>
   <div align="left">
- <b>Pr@deep Kvssk</b> here, pursuing <b>Electronics and Computer Engineer</b> With Cloud Computing And Wireless Security. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
+ <b>Pr@deep Kvssk</b> here,<br /> pursuing <b>Electronics and Computer Engineer</b> With Cloud Computing And Wireless Security. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
 With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
   </div></td>
   <td>
 <div>
-  <img width="240" height="230" align="center" src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/adventurer.jfif"> 
+  <img src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/adventurer.jfif"> 
 </div>
   </td>
  </tr>
@@ -52,7 +52,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 </tr>
  <tr>
   <td>
-<img align="left" src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/study.png' width="250" height="250" ><br />
+<img align="right" src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/study.png' width="250" height="250" ><br />
   
  
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
