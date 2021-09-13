@@ -95,7 +95,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <img align='left' src='https://media2.giphy.com/media/3oEduVMHQ73fg96Nri/giphy.webp?cid=ecf05e470420y1dxyhu0c6fcgzyz4m2jnw5ozsdzi7cwx8c2&rid=giphy.webp&ct=g' width='200"'>
  
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+Having a hobby is a <b>great</b> <img align='right' src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/Assests/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession  and some of them are as follows.
 ##
 <p align="center">
@@ -123,12 +123,12 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## Quick Overview 📝
     
-<a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
+<a href="https://github.com/KVSSKPRADEEP/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KVSSKPRADEEP&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
 </a>
-<a href="https://github.com/hackcoderr/github-readme-stats">
+<a href="https://github.com/KVSSKPRADEEP/github-readme-stats">
  
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KVSSKPRADEEP&layout=compact&theme=radical" />
 </a>
 
 
@@ -139,22 +139,15 @@ but also gives you various benefits which can improve the quality of your life. 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
-
 <div align="center">
-<a href="https://github.com/hackcoderr" target="_blank">
+<a href="https://github.com/KVSSKPRADEEP" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://medium.com/@kvsskpradeep" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/hackcoderr" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@hackcoderr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/hackcoderr" target="_blank">
+<a href="https://linkedin.com/in/pradeepkvssk" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hackcoderr" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+
 
 
 
@@ -163,18 +156,11 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <br/>  
 
-
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
-</p>
-
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
-
-<a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
 
