@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <table border="5"><tr><td>
  <img src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/adventurer_me.gif"> </td><td>
 <div> 
-<ul><li><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">  Pursuing [<b>Electronics and Computer Engineer</b> With Cloud Computing and Wireless Security]. </li><li>As a professional, I have the [<b>immense aptitude for learning</b>] and the [<b>ability to adapt and excel in a multicultural environment</b>]. 
+<ul><li><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">Pursuing [<b>Electronics and Computer Engineer</b> With Cloud Computing and Wireless Security]. </li><li>As a professional, I have the [<b>immense aptitude for learning</b>] and the [<b>ability to adapt and excel in a multicultural environment</b>]. 
 As a person,
  <li><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">    I am friendly and good at motivating people in a team environment.</li> 
 
@@ -43,7 +43,7 @@ As a person,
 
 # Technical Skills 🛠 
 
-<ul><li><br />
+<ul><li>
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy.</li><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29294958" width="150" height="150" align="right">
 <br /><li> So these technical skills of the engineer always help him, in the same way at all the time, Just as Emperors who tries to win a war from his enemies using the weapons and strategies in a war-fare. </li><br />
  <li>I am also an engineer, so I too should have such weapons and methods, so I  have some technical skills too,  which are the following.</li></ul>
