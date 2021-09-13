@@ -93,6 +93,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  
  
 # My Hobbies ✍
+<img src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/hobby.png" align="center">
 <table><tr><td>
 <img align="center" src='https://media2.giphy.com/media/3oEduVMHQ73fg96Nri/giphy.webp?cid=ecf05e470420y1dxyhu0c6fcgzyz4m2jnw5ozsdzi7cwx8c2&rid=giphy.webp&ct=g'>
  </td>
