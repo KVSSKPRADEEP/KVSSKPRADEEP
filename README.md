@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 </div>  
 
-<div align="center">
 <!--About Me-->
-<table>
- <tr>
 ## About Me ✍
+
+ <table>
+ <tr>
  <td>
  <b>Pr@deep Kvssk</b> here, pursuing <b>Electronics and Computer Engineer</b> With Cloud Computing And Wireless Security. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
 With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
@@ -44,7 +44,11 @@ With my hard work, I developed effective research and analytical skills as well 
 <!--technical skills-->
 
 ## Technical Skills 🛠 
-<img align="center" src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/study.png' width="250" height="250" ><br />
+<table>
+ <tr><td>
+<img align="left" src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/study.png' width="250" height="250" ><br />
+  </td>
+  <td>  
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -76,10 +80,13 @@ With my hard work, I developed effective research and analytical skills as well 
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+  </td>
+ </tr>
+ <tr>
 
-<br>
 As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
-</br>
+</tr>
+ </table>
 
  <!--My Hobbies-->
  
