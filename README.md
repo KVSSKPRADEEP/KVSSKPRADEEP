@@ -44,11 +44,9 @@ As a person,
 # Technical Skills 🛠 
 
 <ul><li><br />
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy.</li><br /><li> So these technical skills of the engineer always help him, in the same way at all the time, Just as Emperors who tries to win a war from his enemies using the weapons and strategies in a war-fare. </li>
-
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29294958" width="150" height="150" align="right">
-<br />
- <li>I am also an engineer, so I too should have such weapons and methods, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies Under the World Record Holder [<b>Mr. Vimal Daga</b>] in one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of Linux World Informatica</li></ul>
+As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy.</li><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/29294958" width="150" height="150" align="right">
+<br /><li> So these technical skills of the engineer always help him, in the same way at all the time, Just as Emperors who tries to win a war from his enemies using the weapons and strategies in a war-fare. </li><br />
+ <li>I am also an engineer, so I too should have such weapons and methods, so I  have some technical skills too,  which are the following.</li></ul>
 
  <table border="8">
  <tr>
@@ -89,8 +87,9 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 [![Ansible](https://img.shields.io/badge/Learning-Ansible-623ce4?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.io/)
 [![Linux World informatics](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://www.linuxworldindia.org/)
- 
- </td>
+  <p>I am still in learning state and learning many tools and technologies<br />
+   From various mentors around the globe. Thanks for their immensive effort from each & every one.
+   </p></td>
  </tr>
  </table>
 
