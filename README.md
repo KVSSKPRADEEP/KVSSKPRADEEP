@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!--Header-->
 
  
-<div align="center">
+<div align="left">
  
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/KVSSKPRADEEP)
 [![Linkedin Badge](https://img.shields.io/badge/-Pradeep%20Kvssk-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pradeepkvssk/)](https://www.linkedin.com/in/pradeepkvssk/) 
@@ -25,13 +25,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--About Me-->
-<br>
+
 ## About Me ✍
  
  <b>Pr@deep Kvssk</b> here, pursuing <b>Electronics and Computer Engineer</b> With Cloud Computing And Wireless Security. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
 With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
-</br>
 </div>
 <div>
  <p>
