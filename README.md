@@ -5,13 +5,13 @@ Here are some ideas to get you started:
 
 -->
 
-## Holla <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"><challengers/>!🎓
-
-## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! , I am Pr@deep👨‍🎓
+## Holla <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! , I am Pr@deep👨‍🎓
+<div align="center">
 - 🔭 I’m currently working on Exploits, Deep Learning implementations on Embeded Security
 - 🌱 I’m currently learning AI, Russian
 - 👯 I’m looking to collaborate on #Open-source Vulnerabilities
 - 🤔 I’m open to suggestions
+ </div>
 <!--Header-->
 
  
@@ -26,20 +26,11 @@ Here are some ideas to get you started:
 <!--About Me-->
 ## About Me ✍
 
- <table>
- <tr>
- <td>
-  <div align="left">
+  <img height="600" width="800"  src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/adventurer_me.gif"> 
+<br />
  Pursuing <b>Electronics and Computer Engineer</b> With Cloud Computing And Wireless Security. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
 With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
-  </div></td>
-  <td>
-<div>
-  <img height="400" width="400" src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/adventurer.jfif"> 
-</div>
-  </td>
- </tr>
- </table>
+  
 
 <br>
 <!--technical skills-->
@@ -155,7 +146,6 @@ but also gives you various benefits which can improve the quality of your life. 
   
 
 <br/>  
-
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
