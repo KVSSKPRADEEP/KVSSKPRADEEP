@@ -154,15 +154,17 @@ but also gives you various benefits which can improve the quality of your life. 
 </div>  
 
 <br/>  
-   
-<img height="120" alt=".. .. .. .. .. .. Thanks for visiting me .. .. .. .. .. .." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ 
+  <pre> <h2> .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> .. .. .. Let's Connect .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"><br /> .. Follow me for more Updates .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> .. .. </h1></pre>
+ 
  <br />
-  
-  <pre> <h2> .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> .. .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> .. Let's Connect & Grow .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> .. .. <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> .. .. </h1></pre>
-<br />
+ 
+<table><tr><td> 
+<img alt=".. .. .. .. .. .. Let's Connect & Grow .. .. .. .. .. .." width="100%" src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/follow.gif" />
+ </td><td>  
+<img height="120" alt=".. .. .. .. .. .. Thanks for visiting me .. .. .. .. .. .." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <br /></td></tr></table>
  <div align="center">
-
-<img height="120" alt=".. .. .. .. .. .. Let's Connect & Grow .. .. .. .. .. .." width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <a href="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
