@@ -44,7 +44,7 @@ With my hard work, I developed effective research and analytical skills as well 
 <br>
 <!--technical skills-->
 
-## Technical Skills 🛠 
+# Technical Skills 🛠 
 <table>
  <tr>
 
@@ -93,13 +93,14 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  <!--My Hobbies-->
  
  
-## My Hobbies ✍
-
+# My Hobbies ✍
+<table><tr><td>
 <img align="center" src='https://media2.giphy.com/media/3oEduVMHQ73fg96Nri/giphy.webp?cid=ecf05e470420y1dxyhu0c6fcgzyz4m2jnw5ozsdzi7cwx8c2&rid=giphy.webp&ct=g' width='200"'>
- 
+ </td>
+ <td>
 Having a hobby is a <b>great</b> <img align='right' src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/Assests/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession  and some of them are as follows.
-##
+
 <p align="center">
   <a href="#">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -114,16 +115,13 @@ but also gives you various benefits which can improve the quality of your life. 
   </a>&nbsp;&nbsp;&nbsp;
   
 </p>
-
-##
-
-
-
-<br>
+ </td>
+ </tr>
+ </table>
 
 <!--Github Progess bar-->
 
-## Quick Overview 📝
+# Quick Overview 📝
     
 <a href="https://github.com/KVSSKPRADEEP/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KVSSKPRADEEP&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
