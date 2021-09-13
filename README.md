@@ -86,6 +86,7 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 [![Ansible](https://img.shields.io/badge/Learning-Ansible-623ce4?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.io/)
+[![Scripting](https://img.shields.io/badge/Learning-Ansible-623ce4?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.io/)
 [![Linux World informatics](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://www.linuxworldindia.org/)
   <p>I am still in learning state and learning many tools and technologies<br />
    From various mentors around the globe. Thanks for their immensive effort from each & every one.
