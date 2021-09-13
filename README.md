@@ -47,8 +47,8 @@ With my hard work, I developed effective research and analytical skills as well 
 <table>
  <tr><td>
 <img align="left" src='https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/study.png' width="250" height="250" ><br />
-  </td>
-  <td>  
+  
+ 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
