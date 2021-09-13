@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ## Holla <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"><challengers/>!🎓
 
-## Hi 👋<𝚌𝚘𝚍𝚎𝚛𝚜/>! , I am Pr@deep👨‍🎓
+## Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> <𝚌𝚘𝚍𝚎𝚛𝚜/>! , I am Pr@deep👨‍🎓
 - 🔭 I’m currently working on Exploits, Deep Learning implementations on Embeded Security
 - 🌱 I’m currently learning AI, Russian
 - 👯 I’m looking to collaborate on #Open-source Vulnerabilities
