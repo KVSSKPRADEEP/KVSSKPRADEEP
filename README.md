@@ -25,18 +25,20 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--About Me-->
-
+<table>
+ <tr>
 ## About Me ✍
- 
+ <td>
  <b>Pr@deep Kvssk</b> here, pursuing <b>Electronics and Computer Engineer</b> With Cloud Computing And Wireless Security. As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. 
 With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
-
-</div>
+  </td>
+  <td>
 <div>
- <p>
   <img width="240" height="230" align="center" src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/adventurer.jfif"> 
-</p>
 </div>
+  </td>
+ </tr>
+ </table>
 
 <br>
 <!--technical skills-->
