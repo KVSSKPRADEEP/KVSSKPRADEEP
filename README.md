@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 <ul text-indent="5px">
  <li> 🔭 I’m currently working on Exploits, Deep Learning implementations on Embeded Security </li><br />
- <li> 🌱 I’m currently learning AI, Russian </li><br />
+ <li> 🌱 I’m currently learning Languages </li><br />
  <li> 👯 I’m looking to collaborate on Vulnerabilities </li><br />
  <li> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> I’m open to suggestions</li>
  </ul>
