@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <table border="5"><tr><td>
  <img src="https://github.com/KVSSKPRADEEP/KVSSKPRADEEP/blob/main/Assests/adventurer_me.gif"> </td><td>
 <div> 
-<ul><li><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">Pursuing [<b>Electronics and Computer Engineer</b> With Cloud Computing and Wireless Security]. </li><li>As a professional, I have the [<b>immense aptitude for learning</b>] and the [<b>ability to adapt and excel in a multicultural environment</b>]. 
+<ul><li><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Pursued [<b>Electronics and Computer Engineer</b> With Cloud Computing and Wireless Security]. </li><li>As a professional, I have the [<b>immense aptitude for learning</b>] and the [<b>ability to adapt and excel in a multicultural environment</b>]. 
 As a person,
  <li><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">    I am friendly and good at motivating people in a team environment.</li> 
 
