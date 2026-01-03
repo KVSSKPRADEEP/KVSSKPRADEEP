@@ -140,7 +140,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ## 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>
- <b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+ <b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://linkedin.com/in/pradeepkvssk) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
 
 <div align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <a href="https://github.com/KVSSKPRADEEP" target="_blank">
